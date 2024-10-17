@@ -1,0 +1,107 @@
+.homepage-section1{
+    background-image: url(images/homepage-sec1-img1.png);
+    height: 100vh;
+     background-size: cover;
+ background-position: center bottom;
+        padding-top: 1px;
+}
+
+.homepage-section1-sub-main{
+    
+}
+.homepage-section1-sub{
+      background-color:  #FFFFFFC2; 
+      margin-right: 41%; 
+margin-left: 10%;
+ margin-top: 10%; 
+padding: 2% 5%;
+color:  #333333;
+
+    
+    
+}
+.homepage-section1-sub-p1{
+    font-family: Inter;
+font-size: 3rem;
+font-weight: 700;
+line-height: 74px;
+text-align: left;
+margin-top: 0%;
+
+
+
+}
+.homepage-section1-button{
+    font-family: Inter;
+font-size: 1rem;
+font-weight: 600;
+line-height: 20px;
+text-align: center;
+padding: 2% 5%;
+background-color: #E47536;
+color:#FFFFFF;
+border: none;
+border-radius: 5px;
+margin-top: 2%;
+
+}
+
+.homepage-section2{
+    background-color: #6A3DA426;
+    height: 100vh; 
+    
+}
+.homepage-section2-left-top{
+ background-image: url(images/homepage-sec2-left-img1.png); 
+    background-repeat: no-repeat;
+    /* height: 50%; */
+width: 100%;
+ margin-top: 10%;
+ margin-left:5%;
+ 
+text-align: center;
+font-family: Inter;
+font-size: 2rem;
+font-weight: 700;
+line-height: 88px;
+text-align: left;
+color: #FFFFFF;}
+
+.homepage-section2-left-top-p2{
+    font-family: Inter;
+font-size: 1rem;
+font-weight: 500;
+line-height: 26.63px;
+text-align: left;
+color:  #6A3DA4;
+margin-top: 5%;
+margin-left: 5%;
+margin-right: 20%;
+margin-bottom: 2%;
+
+
+}
+
+.homepage-section2-button{
+    font-family: Inter;
+font-size: 1rem;
+font-weight: 700;
+line-height: 24.2px;
+text-align: center;
+background-color: #E47536;
+color:#FFFFFF;
+border: none;
+border-radius: 5px;
+padding: 1% 2% ;
+margin-left: 5%;
+}
+
+.homepage-sec2-right-img{
+    width: 100%;
+    margin-top: 20%;
+    border: #E47536 10px solid;
+}
+
+.homepage-section3{
+    
+}
